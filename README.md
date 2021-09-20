@@ -9,7 +9,9 @@ Estou me aventurando na área de desenvolvimento que é um mundo interessantíss
 
 Prazer tem te conhecer. Vamos *codar*!
 
-<hf>
+------
+
+
 
 <h3> Olá 👋 </h3>
 
