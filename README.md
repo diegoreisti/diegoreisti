@@ -17,7 +17,7 @@ Prazer tem te conhecer. Vamos *codar*!
 
 My name is Diego Reis, i'm a systems analyst with specialization in Helth Informatics, [cpTICS](https://sbis.org.br/profissionais-cptics) and member of SBIS -  Brazilian Heath Informatics Society.
 
-I am adventuring myself on dev that is a very interesting world full of opportunities of work, collaboration, creativity and purpose.
+I am adventuring myself on dev that is a very interesting world full of work opportunities, collaboration, creativity and purpose.
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - - 📫 How to reach me: https://linktr.ee/diegoreisti
