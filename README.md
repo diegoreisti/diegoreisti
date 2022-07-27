@@ -4,7 +4,6 @@ Me chamo Diego Reis, sou Consultor LIMS, especialista em Infromatica em Saúde, 
 
 Estou me aventurando na área de desenvolvimento que é um mundo interessantíssimo e com várias oportunidades legais de trabalho, colaboração, criatividade e propósito. 
 
-- 🌱 Atualmente estou estudando HTML, CSS and JavaScript
 - - 📫 Você me encontra em: https://linktr.ee/diegoreisti
 
 Prazer tem te conhecer. Vamos *codar*!
@@ -19,7 +18,6 @@ My name is Diego Reis, i'm a LIMS Consultant with specialization in Helth Inform
 
 I am adventuring myself on dev that is a very interesting world full of work opportunities, collaboration, creativity and purpose.
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
 - - 📫 How to reach me: https://linktr.ee/diegoreisti
 
 Nice to meet you. Let's code!
